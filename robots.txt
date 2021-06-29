@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.datumhq.com/sitemap/sitemap-index.xml
+Host: https://www.datumhq.com
